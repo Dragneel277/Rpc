@@ -1,0 +1,16 @@
+To implement the code I provided, you can follow these steps:
+1-Create a new Python file and name it server.py.
+2-Copy and paste the server code I provided into the server.py file.
+3-Save the server.py file.
+4-Open a command prompt or terminal window and navigate to the directory where you saved the server.py file.
+5-Type python server.py and press Enter to start the server. You should see a message indicating that the server is running.
+6-Open a new Python file and name it client.py.
+7-Copy and paste the client code I provided into the client.py file.
+8-Save the client.py file.
+9-Open a command prompt or terminal window and navigate to the directory where you saved the client.py file.
+10-Type python client.py and press Enter to run the client. You should see the result of the 
+    add function call (5) printed to the console.
+
+Note that you will need to have the xmlrpc.server and xmlrpc.client modules installed in your Python environment in order 
+    to run this code. You can install these modules using pip by running pip install xmlrpc.client xmlrpc.server in your 
+    command prompt or terminal window.

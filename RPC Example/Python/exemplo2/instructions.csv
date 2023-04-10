@@ -1,0 +1,5 @@
+Run the server.py script by entering the command python server.py. 
+    This will start the server and it will listen for incoming requests.
+
+Go to where the client file is .
+Run the client.py script by entering the command python client.py.

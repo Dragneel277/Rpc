@@ -1,0 +1,23 @@
+To implement the Java code I provided, you can follow these steps:
+
+1-Create a new directory and name it rpc.
+2-Inside the rpc directory, create a new directory and name it server.
+3-Inside the server directory, create a new file and name it Server.java.
+4-Copy and paste the server code I provided into the Server.java file.
+5-Save the Server.java file.
+6-Open a command prompt or terminal window and navigate to the rpc/server directory.
+7-Type javac Server.java and press Enter to compile the server.
+8-Type java Server and press Enter to start the server. You should see a message indicating that the server is running.
+9-Open a new command prompt or terminal window and navigate to the rpc directory.
+10-Inside the rpc directory, create a new directory and name it client.
+11-Inside the client directory, create a new file and name it Client.java.
+12-Copy and paste the client code I provided into the Client.java file.
+13-Save the Client.java file.
+14-Open a command prompt or terminal window and navigate to the rpc/client directory.
+15-Type javac Client.java and press Enter to compile the client.
+16-Type java Client and press Enter to run the client. 
+    You should see the result of the addNumbers function call (5) printed to the console.
+
+Note that you will need to have the Java Development Kit (JDK) installed on your computer in order to compile 
+and run this code. You can download the JDK from the Oracle website. 
+Also, make sure that you have set the JAVA_HOME environment variable to the path of your JDK installation.
